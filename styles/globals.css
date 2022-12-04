@@ -1,0 +1,49 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+.Home_container__bCOhY{
+
+background: url('metaverse-future.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+color: aliceblue;
+
+}
+
+.btn{
+  padding: 13px;
+  margin: 10px;
+  border-radius: 14px;
+  background-color: rgb(149, 146, 246);
+  cursor: pointer;
+}
+
+.submit{
+  padding: 11px;
+  margin-top: 8px;
+  border-radius: 12px;
+}
+
+.submit:hover{
+  background-color: rgb(145, 130, 243);
+  cursor: pointer;
+}
+
+.h1{
+  color: azure;
+}
